@@ -290,6 +290,7 @@ https://static.corp.google.com/corpsso/images/hoboken-summer-fall-50-50.jpg
 https://static.corp.google.com/corpsso/images/hocr.jpg
 https://static.corp.google.com/corpsso/images/hoover.jpg
 https://static.corp.google.com/corpsso/images/horse_stuffie.jpg
+https://static.corp.google.com/corpsso/images/howardm_Portobello-Chilli_s.jpg
 https://static.corp.google.com/corpsso/images/howth_harbour_03.jpg
 https://static.corp.google.com/corpsso/images/Howth.jpg
 https://static.corp.google.com/corpsso/images/huckleberries.jpg
@@ -472,6 +473,7 @@ https://static.corp.google.com/corpsso/images/P20091115_07.jpg
 https://static.corp.google.com/corpsso/images/P4290129.jpg
 https://static.corp.google.com/corpsso/images/P9110802.jpg
 https://static.corp.google.com/corpsso/images/P9160440.jpg
+https://static.corp.google.com/corpsso/images/paintedladies.jpg
 https://static.corp.google.com/corpsso/images/Panasonic_214.jpg
 https://static.corp.google.com/corpsso/images/paris4.jpg
 https://static.corp.google.com/corpsso/images/paris_by_night.jpg
